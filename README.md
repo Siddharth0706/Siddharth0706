@@ -14,6 +14,6 @@
 -->Educational resources for aspiring developers<br>
 
 📫 How to reach me:<br>
-LinkedIn: Your LinkedIn profile link]](https://www.linkedin.com/in/siddharth-sheokand-02153b288/<br>
+LinkedIn: https://www.linkedin.com/in/siddharth-sheokand-02153b288/<br>
 Twitter: https://twitter.com/Siddharth_0706<br>
 Email: siddharthsheokand77@gmail.com<br>
